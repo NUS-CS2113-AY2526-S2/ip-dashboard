@@ -1,5 +1,5 @@
 Repository's Location,Branch,Author's GitHub ID,Author's Emails,Author's Display Name,Author's Git Author Name,Ignore Glob List
-https://github.com/cyanduck32/ip.git,master,cyanduck32,,CS2113-T09-3 KHOO..SAAC,,
+https://github.com/cyanduck32/ip.git,master,cyanduck32,,CS2113-T09-3 KHOO..SAAC,=,
 https://github.com/chuayongliang6/ip.git,master,chuayongliang6,,CS2113-W10-1 CHUA..IANG,Chua Yong Liang,
 https://github.com/Zhang-Zhitong/ip.git,master,Zhang-Zhitong,,CS2113-T09-3 ZHAN..TONG,,
 https://github.com/Sid3024/ip.git,master,Sid3024,,CS2113-T10-1 SIDD..INAR,,
